@@ -1,13 +1,9 @@
 {
   "name": "app",
-  "version": "10.1.0",
+  "version": "1.0.0",
   "description": "A modern Electron application template with React, Vite, TypeScript, and TailwindCSS",
   "main": "./out/main/main.js",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/guasam/electron-react-app"
-  },
   "pnpm": {
     "onlyBuiltDependencies": [
       "electron",
